@@ -36,6 +36,8 @@ out/
 ### VS Code ###
 .vscode/
 
+### Custom ###
 db_dev.mv.db
-Question.md
+db_dev.trace.db
+.env
 nul
