@@ -1,4 +1,3 @@
-
 package com.back.boundedContext.cash.out;
 
 import com.back.boundedContext.cash.domain.CashMember;

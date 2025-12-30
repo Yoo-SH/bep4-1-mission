@@ -21,3 +21,4 @@ public class MemberApiClient {
                 .body(String.class);
     }
 }
+

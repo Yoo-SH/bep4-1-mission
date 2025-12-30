@@ -1,4 +1,3 @@
-
 package com.back.shared.member.domain;
 
 import jakarta.persistence.EntityListeners;
